@@ -1,3 +1,15 @@
+# Conversation Intelligence Frontend
+
+- Author: jesse.deoms@gmail.com
+
+This project is intended to demonstrate Level 1 functionality for [this challenge](https://docs.google.com/document/d/1iAktQaFpohV48xbh01b9LrxxNoD0QMFeWg-yLXov-yQ/edit#heading=h.942gpo5gu1ig).
+
+The intention for this solution code is to demonstrate proficiency in Frontend Web Development, while time-boxing this exercise to **one hour** of planning and **three hours of** development.
+
+See the documentation below for running this in local development using create-react app scripts:
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
